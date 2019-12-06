@@ -2,6 +2,8 @@
 target
 *.iml
 stale_outputs_checked
+**/target
+**/*.iml
 =======
 # Compiled class file
 *.class
